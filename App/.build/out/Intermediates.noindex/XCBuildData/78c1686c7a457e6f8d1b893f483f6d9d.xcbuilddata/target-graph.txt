@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'AllExcludingTests' in project 'Aggregate'
+➜ Explicit dependency on target 'MoleUI-product' in project 'MoleUI'
+Target 'MoleUI-product' in project 'MoleUI' (no dependencies)

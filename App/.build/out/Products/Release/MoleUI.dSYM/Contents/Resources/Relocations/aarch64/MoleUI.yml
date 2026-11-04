@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/dalgsiki/Developer/MoleUI/App/.build/out/Products/Release/MoleUI'
+relocations:     []
+...

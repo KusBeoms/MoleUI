@@ -1,0 +1,11 @@
+{
+  "/Users/dalgsiki/Developer/MoleUI/App/Sources/MoleUI/AnalyzeView.swift" : {
+    "abi-baseline-json" : "/Users/dalgsiki/Developer/MoleUI/App/.build/out/Intermediates.noindex/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/MoleUI.abi.json",
+    "const-values" : "/Users/dalgsiki/Developer/MoleUI/App/.build/out/Intermediates.noindex/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/MoleUI-primary.swiftconstvalues",
+    "dependencies" : "/Users/dalgsiki/Developer/MoleUI/App/.build/out/Intermediates.noindex/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/MoleUI-primary.d",
+    "diagnostics" : "/Users/dalgsiki/Developer/MoleUI/App/.build/out/Intermediates.noindex/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/MoleUI-primary.dia",
+    "swiftdoc" : "/Users/dalgsiki/Developer/MoleUI/App/.build/out/Intermediates.noindex/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/MoleUI.swiftdoc",
+    "swiftmodule" : "/Users/dalgsiki/Developer/MoleUI/App/.build/out/Intermediates.noindex/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/MoleUI.swiftmodule",
+    "swiftsourceinfo" : "/Users/dalgsiki/Developer/MoleUI/App/.build/out/Intermediates.noindex/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/MoleUI.swiftsourceinfo"
+  }
+}

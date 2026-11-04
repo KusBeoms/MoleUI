@@ -1,0 +1,11 @@
+{
+  "active": true,
+  "started_at": "2026-10-29T08:06:26.885Z",
+  "original_prompt": "/autopilot Mole에 Mac 네이티브 앱으로 UI 만들어줘.",
+  "session_id": "68fc34b1-165f-4b4b-a034-2537371719f4",
+  "project_path": "/Users/dalgsiki/Developer/MoleUI",
+  "reinforcement_count": 0,
+  "awaiting_confirmation": true,
+  "awaiting_confirmation_set_at": "2026-10-29T08:06:26.885Z",
+  "last_checked_at": "2026-10-29T08:06:26.885Z"
+}

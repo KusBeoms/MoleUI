@@ -1,0 +1,66 @@
+{
+  "" : {
+    "const-values" : "/Users/dalgsiki/Developer/MoleUI/App/.build/out/Intermediates.noindex/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/MoleUI-primary.swiftconstvalues",
+    "dependencies" : "/Users/dalgsiki/Developer/MoleUI/App/.build/out/Intermediates.noindex/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/MoleUI-primary.d",
+    "diagnostics" : "/Users/dalgsiki/Developer/MoleUI/App/.build/out/Intermediates.noindex/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/MoleUI-primary.dia",
+    "emit-module-dependencies" : "/Users/dalgsiki/Developer/MoleUI/App/.build/out/Intermediates.noindex/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/MoleUI-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/dalgsiki/Developer/MoleUI/App/.build/out/Intermediates.noindex/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/MoleUI-primary-emit-module.dia",
+    "pch" : "/Users/dalgsiki/Developer/MoleUI/App/.build/out/Intermediates.noindex/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/MoleUI-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/dalgsiki/Developer/MoleUI/App/.build/out/Intermediates.noindex/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/MoleUI-primary.swiftdeps"
+  },
+  "/Users/dalgsiki/Developer/MoleUI/App/Sources/MoleUI/AnalyzeView.swift" : {
+    "index-unit-output-path" : "/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/AnalyzeView.o",
+    "llvm-bc" : "/Users/dalgsiki/Developer/MoleUI/App/.build/out/Intermediates.noindex/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/AnalyzeView.bc",
+    "object" : "/Users/dalgsiki/Developer/MoleUI/App/.build/out/Intermediates.noindex/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/AnalyzeView.o"
+  },
+  "/Users/dalgsiki/Developer/MoleUI/App/Sources/MoleUI/Components.swift" : {
+    "index-unit-output-path" : "/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/Components.o",
+    "llvm-bc" : "/Users/dalgsiki/Developer/MoleUI/App/.build/out/Intermediates.noindex/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/Components.bc",
+    "object" : "/Users/dalgsiki/Developer/MoleUI/App/.build/out/Intermediates.noindex/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/Components.o"
+  },
+  "/Users/dalgsiki/Developer/MoleUI/App/Sources/MoleUI/DashboardView.swift" : {
+    "index-unit-output-path" : "/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/DashboardView.o",
+    "llvm-bc" : "/Users/dalgsiki/Developer/MoleUI/App/.build/out/Intermediates.noindex/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/DashboardView.bc",
+    "object" : "/Users/dalgsiki/Developer/MoleUI/App/.build/out/Intermediates.noindex/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/DashboardView.o"
+  },
+  "/Users/dalgsiki/Developer/MoleUI/App/Sources/MoleUI/DiskScanner.swift" : {
+    "index-unit-output-path" : "/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/DiskScanner.o",
+    "llvm-bc" : "/Users/dalgsiki/Developer/MoleUI/App/.build/out/Intermediates.noindex/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/DiskScanner.bc",
+    "object" : "/Users/dalgsiki/Developer/MoleUI/App/.build/out/Intermediates.noindex/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/DiskScanner.o"
+  },
+  "/Users/dalgsiki/Developer/MoleUI/App/Sources/MoleUI/Models.swift" : {
+    "index-unit-output-path" : "/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/Models.o",
+    "llvm-bc" : "/Users/dalgsiki/Developer/MoleUI/App/.build/out/Intermediates.noindex/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/Models.bc",
+    "object" : "/Users/dalgsiki/Developer/MoleUI/App/.build/out/Intermediates.noindex/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/Models.o"
+  },
+  "/Users/dalgsiki/Developer/MoleUI/App/Sources/MoleUI/MoleCLI.swift" : {
+    "index-unit-output-path" : "/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/MoleCLI.o",
+    "llvm-bc" : "/Users/dalgsiki/Developer/MoleUI/App/.build/out/Intermediates.noindex/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/MoleCLI.bc",
+    "object" : "/Users/dalgsiki/Developer/MoleUI/App/.build/out/Intermediates.noindex/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/MoleCLI.o"
+  },
+  "/Users/dalgsiki/Developer/MoleUI/App/Sources/MoleUI/MoleUIApp.swift" : {
+    "index-unit-output-path" : "/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/MoleUIApp.o",
+    "llvm-bc" : "/Users/dalgsiki/Developer/MoleUI/App/.build/out/Intermediates.noindex/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/MoleUIApp.bc",
+    "object" : "/Users/dalgsiki/Developer/MoleUI/App/.build/out/Intermediates.noindex/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/MoleUIApp.o"
+  },
+  "/Users/dalgsiki/Developer/MoleUI/App/Sources/MoleUI/Parsing.swift" : {
+    "index-unit-output-path" : "/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/Parsing.o",
+    "llvm-bc" : "/Users/dalgsiki/Developer/MoleUI/App/.build/out/Intermediates.noindex/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/Parsing.bc",
+    "object" : "/Users/dalgsiki/Developer/MoleUI/App/.build/out/Intermediates.noindex/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/Parsing.o"
+  },
+  "/Users/dalgsiki/Developer/MoleUI/App/Sources/MoleUI/SystemMonitor.swift" : {
+    "index-unit-output-path" : "/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/SystemMonitor.o",
+    "llvm-bc" : "/Users/dalgsiki/Developer/MoleUI/App/.build/out/Intermediates.noindex/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/SystemMonitor.bc",
+    "object" : "/Users/dalgsiki/Developer/MoleUI/App/.build/out/Intermediates.noindex/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/SystemMonitor.o"
+  },
+  "/Users/dalgsiki/Developer/MoleUI/App/Sources/MoleUI/TaskView.swift" : {
+    "index-unit-output-path" : "/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/TaskView.o",
+    "llvm-bc" : "/Users/dalgsiki/Developer/MoleUI/App/.build/out/Intermediates.noindex/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/TaskView.bc",
+    "object" : "/Users/dalgsiki/Developer/MoleUI/App/.build/out/Intermediates.noindex/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/TaskView.o"
+  },
+  "/Users/dalgsiki/Developer/MoleUI/App/Sources/MoleUI/UninstallView.swift" : {
+    "index-unit-output-path" : "/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/UninstallView.o",
+    "llvm-bc" : "/Users/dalgsiki/Developer/MoleUI/App/.build/out/Intermediates.noindex/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/UninstallView.bc",
+    "object" : "/Users/dalgsiki/Developer/MoleUI/App/.build/out/Intermediates.noindex/MoleUI.build/Release/MoleUI-p.build/Objects-normal/arm64/UninstallView.o"
+  }
+}
